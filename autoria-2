@@ -1,0 +1,49 @@
+Questão 1- Faça o código de uma página de cadastro!! (nome, email, idade, senha, etc..)
+Solução 1 -
+const cadastro = {
+nome: &quot;Marcus&quot;,
+email: &quot;umemailaleatorio@gmail.com&quot;,
+idade: 17,
+senha: &quot;uma1senha2muito3difiçil4&quot;,
+etc: &quot;etissetra&quot;
+}
+const login = (cadastro)
+console.log(login)
+Questão 2- Faça uma lista de compras
+Solução 2 -
+const listaCompras =
+[&#39;arroz&#39;,&#39;batata&#39;,&#39;banana&#39;,&#39;feijão&#39;,&#39;carne&#39;,&#39;leite&#39;,&#39;ovo&#39;,&#39;bolacha&#39;,&#39;ver
+duras&#39;]
+console.log(listaCompras)
+Questão 3 - faça uma lista dos super heróis da marvel menos conhecidos.
+Solução 3 -
+const listaHerois = [
+&quot;Sentinela&quot;,
+&quot;Hyperion&quot;,
+&quot;Ka-Zar&quot;,
+&quot;Capitão Universo&quot;,
+&quot;Tigresa&quot;,
+&quot;Mulher-Aranha&quot;,
+&quot;Polaris&quot;
+]
+console.log(listaHerois)
+Questão 4 - resolva os seguintes problemas: a) 12 x 300; b) 15 x 30; c) 15 % de 437;
+Solução 4 -
+const a = 12*300
+const b = 15*30
+const c = (437/100)*15
+console.log(&quot;A) &quot;,a,&quot; B) &quot;,b,&quot; C) &quot;,c)
+Questão 5 - Descreva as suas características. (nome, idade, altura, pronome, bairro onde
+mora)
+Solução 5 -
+const descricao = [
+{
+
+nome : &quot;Igor Prochmann Carvalho Pinto&quot;,
+idade : 17,
+altura : &quot;1.80&quot;,
+pronome : &quot;ele/dele&quot;,
+bairro : &quot;Fazenda&quot;
+}
+]
+console.log(descricao)
